@@ -1,4 +1,6 @@
-# poly-mf-clients
+# Polyglot Microfrontends clients
+
+A demom single-spa application for a client list.
 
 ## What is this?
 
