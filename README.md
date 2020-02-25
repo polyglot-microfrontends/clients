@@ -1,6 +1,6 @@
 # Polyglot Microfrontends clients
 
-A demom single-spa application for a client list.
+[![CircleCI](https://circleci.com/gh/polyglot-microfrontends/clients.svg?style=svg)](https://circleci.com/gh/polyglot-microfrontends/clients)
 
 ## What is this?
 
